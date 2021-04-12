@@ -1,0 +1,26 @@
+#home .cnt .bg-shape-contact{
+  display:none;
+}
+
+#home .cnt .c-box{
+  display:none
+}
+
+#home .cnt .bg-shape{
+  background: url('../../assets/images/bg/breadcrumbs-bg.jpg') no-repeat;
+  background-size: cover;
+  padding: 60px 0 0 0;
+}
+
+#home .cnt .justify-content-center{
+  flex-direction: row-reverse;
+
+}
+
+#home .cnt .c-left{
+  box-shadow: none;
+  background:url('../../assets/images/man.png') no-repeat center bottom;
+  float:right;
+}
+
+
